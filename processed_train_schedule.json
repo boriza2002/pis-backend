@@ -5,7 +5,9 @@
     },
     "feries": [
         "01-05-2025",
-        "09-04-2025"             
+        "09-04-2025",
+        "06-06-2025",    
+        "07-06-2025"         
     ],
     "lines": {
         "LD": {
@@ -5060,7 +5062,8 @@
     "announcements": [
     "Application en phase d'essai, merci de nous faire part de vos retours",
     "Trafic Normal sur les lignes: A, E & D", 
-    "contact: horairestrainsrfr@gmail.com ou page facebook: Horairestrainsrfr"
+    "contact: horairestrainsrfr@gmail.com ou page facebook: Horairestrainsrfr",
+    "Activer le GPS de votre smart phone pour afficher les horaires à partir de la gare la plus proche"
     ],
   "stations": {
   "Tunis ville": [36.795369890182485, 10.180498086948779],
