@@ -1,13 +1,13 @@
 {
     "validity": {
-        "date_debut": "01-09-2024",
-        "date_fin": "30-06-2025"
+        "date_debut": "01-07-2025",
+        "date_fin": "31-08-2025"
     },
     "feries": [
-        "01-05-2025",
-        "09-04-2025",
-        "06-06-2025",    
-        "07-06-2025"         
+        "25-07-2025",
+        "13-08-2025"
+            
+                 
     ],
     "lines": {
         "LD": {
@@ -5057,10 +5057,11 @@
                 }
             ]
         }
-    },
+        },
+    
 
     "announcements": [
-    "Le 1er Juillet 2025 les horaires seront modifiés",
+    "1er Juillet 2025 Horaires été 2025",
     "Trafic Normal sur les lignes: A, E & D", 
     "contact: horairestrainsrfr@gmail.com",
     "Activer le GPS de votre smartphone pour afficher les horaires à partir de la gare la plus proche"
