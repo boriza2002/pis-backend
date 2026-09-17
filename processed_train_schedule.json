@@ -1,7 +1,7 @@
 {
     "validity": {
         "date_debut": "01-09-2026",
-        "date_fin": "30-09-2027"
+        "date_fin": "30-06-2027"
     },
     "feries": [
         "09-04-2027",
@@ -5866,10 +5866,11 @@
     
 
     "announcements": [
-    "1er Septembre 2026 Horaires Hiver 2026-27",
-    "Trafic Normal sur les lignes: A, E & D", 
+    "MOPIS: Mobile Passengers Information System (By Riadh.B)",
+    "Application d’information voyageurs – Horaires des trains RFR",    
+    "Nouvelle grille horaire – Hiver 2026-2027",
     "contact: horairestrainsrfr@gmail.com",
-    "Activer le GPS pour afficher les horaires à partir de la gare la plus proche(By Riadh.B)"
+    "Activer le GPS pour afficher les horaires à partir de la gare la plus proche"
     ],
   "stations": {
   "Tunis ville": [36.795369890182485, 10.180498086948779],
